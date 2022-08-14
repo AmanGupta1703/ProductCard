@@ -28,8 +28,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/AmanGupta1703/ProductCard]
+- Live Site URL: [https://amangupta1703.github.io/ProductCard/tree/main/product-preview-card-component-main]
+- Live Site URL: [https://amangupta1703.github.io/ProductCard/tree/main/phone-design]
 
 
 ### Built with
@@ -110,5 +111,5 @@ Users should be able to:
 ## Author
 
 - Website - [Product Site](https://amangupta1703.github.io/ProductCard/tree/main/product-preview-card-component-main)
-- Website - [Product Site](https://amangupta1703.github.io/ProductCard/tree/main/phone-design)
+- Website - [Product Site-Mobile-Design](https://amangupta1703.github.io/ProductCard/tree/main/phone-design)
 - Frontend Mentor - [@AmanGupta1703](https://www.frontendmentor.io/profile/AmanGupta1703)
