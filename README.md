@@ -102,13 +102,13 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.geeksforgeeks.org/css-hover-selector/?ref=lbp)
-- [Example resource 2](https://www.w3schools.com/css/css_positioning.asp) 
-- [Example resource 3](https://www.w3schools.com/css/css3_flexbox.asp) 
-- [Example resource 4](https://www.w3schools.com/cssref/css_units.asp) 
+- [GeeksForGeeks -> Hover](https://www.geeksforgeeks.org/css-hover-selector/?ref=lbp)
+- [W3Schools -> Positioning](https://www.w3schools.com/css/css_positioning.asp) 
+- [W3Schools -> Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) 
+- [W3Schools -> Units](https://www.w3schools.com/cssref/css_units.asp) 
 
 ## Author
 
 - Website - [Product Site](https://amangupta1703.github.io/ProductCard/tree/main/product-preview-card-component-main)
-- - Website - [Product Site](https://amangupta1703.github.io/ProductCard/tree/main/phone-design)
+- Website - [Product Site](https://amangupta1703.github.io/ProductCard/tree/main/phone-design)
 - Frontend Mentor - [@AmanGupta1703](https://www.frontendmentor.io/profile/AmanGupta1703)
