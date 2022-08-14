@@ -112,4 +112,4 @@ Users should be able to:
 
 - Website - [Product Site](https://amangupta1703.github.io/ProductCard/tree/main/product-preview-card-component-main)
 - Website - [Product Site-Mobile-Design](https://amangupta1703.github.io/ProductCard/tree/main/phone-design)
-- Frontend Mentor - [@AmanGupta1703](https://www.frontendmentor.io/profile/AmanGupta1703)
+- [@AmanGupta1703](https://www.frontendmentor.io/profile/AmanGupta1703)
