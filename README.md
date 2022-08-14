@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](Output/Desktop-img.png)
-![](Output/phone-img.png)
+![](product-preview-card-component-main/Output/Desktop-img.png)
+![](product-preview-card-component-main/Output/phone-img.png)
 
 
 ### Links
