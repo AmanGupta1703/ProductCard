@@ -110,4 +110,5 @@ Users should be able to:
 ## Author
 
 - Website - [Product Site](https://amangupta1703.github.io/ProductCard//tree/main/product-preview-card-component-main)
+- - Website - [Product Site](https://amangupta1703.github.io/ProductCard//tree/main/product-preview-card-component-main)
 - Frontend Mentor - [@AmanGupta1703](https://www.frontendmentor.io/profile/AmanGupta1703)
