@@ -29,8 +29,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/AmanGupta1703/ProductCard]
-- Live Site URL: [https://amangupta1703.github.io/ProductCard/tree/main/product-preview-card-component-main]
-- Live Site URL: [https://amangupta1703.github.io/ProductCard/tree/main/phone-design]
+- Live Site URL: [https://amangupta1703.github.io/ProductCard/product-preview-card-component-main]
+- Live Site URL: [https://amangupta1703.github.io/ProductCard/phone-design]
 
 
 ### Built with
